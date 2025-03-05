@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<h1 class = "text-4xl mt-8 mb-1 font-black text-slate-800"> {{title}} </h1>
+<p class = "text-xl highlight mb-0"> {{role}} </p>
+<p class = "text-sm text-slate-400 mb-2"> {{timeframe}} </p>
+
+{% if image %}
+<img class="rounded-2xl border border-gray-400 border-2 mb-2" src = "/images/projects/{{image}}">
+{% endif %}
+
+{% if imagelabel %}
+<p class = "text-sm text-slate-400 ml-2"> {{imagelabel}} </p>
+{% endif %}
+
+{{ content | safe }}

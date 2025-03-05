@@ -1,0 +1,22 @@
+---
+title: Blog
+layout: home
+tags: page
+modified: 2024-05-17 00:00:00
+order: 4
+---
+<div class = "">
+<div class = "mb-10">
+<p class = "title">Blog</p>
+</div>
+
+{% for post in collections.posts | reverse %}
+{% if not post.data.hidden %}
+    <div class = "my-4">
+    <a href = "{{post.url}}" class = "text-2xl font-bold text-violet-800 hover:underline"> {{ post.data.title }} </a>
+    <p class = ""> {{post.data.summary}} </p>
+    <p class = "text-sm text-slate-400"> {{post.date | date('F d, Y')}} </p>
+    </div>
+{% endif %}
+{% endfor %}
+</div>

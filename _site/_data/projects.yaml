@@ -1,0 +1,25 @@
+- title: Iron Testament
+  image: iron-testament.png
+  summary: An upcoming turn-based-strategy game that takes place in a post-apocolyptic future. As the last surviving human on Earth, lead your robot followers and take back Earth for the Children of Flesh.
+  role: Lead Programmer
+  link:
+  link-text:
+  tags:
+  timeframe: April 2024 - Present
+  featured: y
+- title: Donuts!
+  image: donuts.png
+  summary: Donuts! is an upcoming arcade racer that combines the game loop of Crazy Taxi with the trick system of Tony Hawk while telling a story about the Cambodian-American experience.
+  role: Game Designer
+  link:
+  link-text:
+  tags:
+  timeframe: June 2024 - Present
+- title: Rat Pack
+  image: ratpack.png
+  summary: A fun little fighting game featuring members of Rat Economy
+  role: UI Engineer & Programmer
+  link: https://rat-economy.itch.io/ratpack
+  link-text: Itch.io Page
+  tags:
+  timeframe: Febuary - March 2024

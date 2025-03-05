@@ -1,0 +1,7 @@
+<ul class="text-center text-lg">
+	{%- for item in collections.pages -%}
+		<li class="inline-block">
+			<a class="p-2 mx-1 md:mx-5 hover:underline noto-sans" href="{{ item.url }}">{{ item.data.title }}</a>
+		</li>
+	{%- endfor -%}
+</ul>

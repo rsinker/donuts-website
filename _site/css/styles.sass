@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.highlight {
+    @apply text-violet-800 font-semibold;
+}
+
+.title {
+  @apply text-4xl my-8 font-black text-slate-800
+}
+
+.blog-title {
+  @apply text-4xl my-8 font-black unbounded text-slate-800
+}
+
+p {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+div.textspace p {
+  @apply mb-4 text-lg text-slate-800;
+}
+
+div.textspace-no-margin p {
+  @apply text-lg text-slate-800;
+}
+
+div.textspace-no-margin li {
+  @apply text-lg text-slate-800;
+}
+
+.unbounded {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
