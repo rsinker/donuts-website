@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\_site",
-    "\\_site\\_includes"
+    "\\_site\\css",
+    "\\_site\\images",
+    "\\_site\\images\\Promotion",
+    "\\_site\\_includes",
+    "\\_site\\_layouts"
   ],
+  "SelectedNode": "\\_site\\_layouts\\base.njk",
   "PreviewInSolutionExplorer": false
 }
