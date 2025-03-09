@@ -35,33 +35,6 @@
       {{ content | safe }}
     </div>
 
-    <footer class="mt-0 text-center text-base text-gray-500 mb-12 md:mb-16 float-none">
-      <div class="">
-        <a href = "/missing">
-          <i class="fa-brands fa-steam fa-4x hover:text-slate-800 mx-1"></i>
-        </a>
-        <a href = "/missing">
-          <i class="fa-brands fa-itch-io fa-4x hover:text-red-400 mx-1"></i>
-        </a>
-      </div>
-      <div class="">
-        <a href = "/missing">
-          <i class="fa-brands fa-bluesky fa-4x hover:text-blue-500 mx-1"></i>
-        </a>
-        <a href = "/missing">
-          <i class="fa-brands fa-twitter fa-4x hover:text-sky-400 mx-1"></i>
-        </a>
-        <a href = "/missing">
-          <i class="fa-brands fa-youtube fa-4x hover:text-red-500 mx-1"></i>
-        </a>
-        <a href = "/missing">
-          <i class="fa-brands fa-linkedin fa-4x hover:text-blue-600 mx-1"></i>
-        </a>
-      </div
-      <p class = "mt-4">&copy; {{ '' | year }} - {{ config.author }}</p>
-      <p class = "">
-        Built on a template by <a href = "https://github.com/rsinker/roosevelt.games" class="underline hover:text-violet-800">Roosevelt Sinker</a>
-      </p>
-    </footer>
+    {% include "footer.njk" %}
   </body>
 </html>

@@ -1,0 +1,11 @@
+
+<div class = "mt-16 grid grid-cols-4 md:grid-cols-5 xl:grid-cols-6 gap-4">
+{% for character in characters %}
+<a href = "/characters/{{ character.name | slug }}">
+<div class = "hover:scale-[1.15]">
+<img class = "border border-4 border-blue-500 rounded-t-md" src = "/images/{{ character.button_img}}">
+<p class = "text-center bg-blue-500 rounded-b-md">{{ character.name }}</p>
+</div>
+</a>
+{% endfor %}
+</div>

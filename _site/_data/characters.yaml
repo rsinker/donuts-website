@@ -1,0 +1,36 @@
+- name: Mony
+  image: mony.jpg
+  button_img: favicon.png
+  description: monymonymony
+  donut: aaa
+  color: #44bd87
+- name: Sothea
+  image: brodie.png
+  button_img: favicon.png
+  description: monymonymony
+  donut: aaa
+  color: #44bd87
+- name: Brodie
+  image: brodie.png
+  button_img: favicon.png
+  description: monymonymony
+  donut: aaa
+  color: #f0aec7
+- name: Paul McDill
+  image: brodie.png
+  button_img: favicon.png
+  description: monymonymony
+  donut: aaa
+  color: #f0aec7
+- name: Willie
+  image: brodie.png
+  button_img: favicon.png
+  description: monymonymony
+  donut: aaa
+  color: #f0aec7
+- name: Kim
+  image: brodie.png
+  button_img: favicon.png
+  description: monymonymony
+  donut: Maple Bar
+  color: #f0aec7

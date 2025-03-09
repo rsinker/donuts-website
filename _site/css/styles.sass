@@ -6,15 +6,20 @@
     @apply text-violet-800 font-semibold;
 }
 
-.title {
-  @apply text-3xl my-8 font-black text-slate-800
+.title, h1, h2, h3 {
+  @apply text-3xl my-8 font-black text-slate-800;
+
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 .blog-title {
-  @apply text-4xl my-8 font-black unbounded text-slate-800
+  @apply text-4xl my-8 font-black unbounded text-slate-800;
 }
 
-p {
+p, li {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
