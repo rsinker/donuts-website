@@ -3,13 +3,12 @@
     "",
     "\\_site",
     "\\_site\\css",
-    "\\_site\\images",
     "\\_site\\images\\Promotion",
     "\\_site\\images\\Screenshots",
     "\\_site\\_data",
     "\\_site\\_includes",
     "\\_site\\_layouts"
   ],
-  "SelectedNode": "\\_site\\images\\Screenshots",
+  "SelectedNode": "\\_site\\_includes\\navigation.njk",
   "PreviewInSolutionExplorer": false
 }
