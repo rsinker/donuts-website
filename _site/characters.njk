@@ -6,11 +6,12 @@ pagination:
   alias: character
 permalink: /characters/{{character.name | slug}}/
 ---
+<h1 class="mb-12 text-center">Meet the Characters</h1>
+
+{% include "characternav.njk" %}
 
 
-
-
-<div class = "flex justify-center gap-x-8">
+<div class = "mt-8 flex justify-center gap-x-8">
 <div>
 <img class ="rounded-2xl border border-gray-400 border-2 h-[512px]" src = "/images/{{ character.image }}">
 </div>
@@ -22,4 +23,3 @@ permalink: /characters/{{character.name | slug}}/
 </div>
 </div>
 
-{% include "characternav.njk" %}

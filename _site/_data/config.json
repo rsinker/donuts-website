@@ -3,5 +3,18 @@
   "url": "https://donutsthegame.com",
   "author": "Timothy Quach",
   "description": "Donuts! is a slapstick 3D driving/skateboarding game meets food delivery service.",
-  "card": "summary"
+  "card": "summary",
+
+  "youtubeLink": "https://youtu.be/0hw4Bt2Tbg0",
+  "youtubeAccount": "@DonutsTheGame",
+  "twitterLink": "/missing",
+  "twitterAccount": "@DonutsTheGame",
+  "facebookLink": "/missing",
+  "facebookAccount": "@DonutsTheGame",
+  "instagramLink": "https://www.instagram.com/donutsthegame/",
+  "instagramAccount": "@DonutsTheGame",
+  "linkedinLink": "/missing",
+  "linkedinAccount": "@DonutsTheGame",
+  "blueskyLink": "https://web-cdn.bsky.app/profile/donutsthegame.bsky.social",
+  "blueskyAccount": "@DonutsTheGame"
 }
