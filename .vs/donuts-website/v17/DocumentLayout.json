@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\base.njk||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_layouts\\base.njk||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\index.njk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\index.njk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\characters.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\characters.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\home.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_layouts\\home.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\css\\styles.sass||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\css\\styles.sass||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\.eleventy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eleventy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\blog.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\blog.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\characterlist.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -19,44 +51,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_data\\characters.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\css\\styles.sass||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\css\\styles.sass||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\base.njk||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_layouts\\base.njk||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\index.njk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\index.njk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\missing.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\missing.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_includes\\footer.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\_includes\\footer.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\.eleventy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eleventy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\presskit.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\presskit.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\blog.njk||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_site\\blog.njk||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,25 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "base.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\base.njk",
               "RelativeDocumentMoniker": "_site\\_layouts\\base.njk",
               "ToolTip": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\base.njk",
               "RelativeToolTip": "_site\\_layouts\\base.njk",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T00:14:00.459Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-12T22:47:12.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "home.njk",
+              "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\home.njk",
+              "RelativeDocumentMoniker": "_site\\_layouts\\home.njk",
+              "ToolTip": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_layouts\\home.njk",
+              "RelativeToolTip": "_site\\_layouts\\home.njk",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T22:32:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "presskit.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\presskit.njk",
               "RelativeDocumentMoniker": "_site\\presskit.njk",
@@ -92,25 +108,24 @@
               "RelativeToolTip": "_site\\presskit.njk",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-12T19:16:39.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T19:16:39.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": ".eleventy.js",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\.eleventy.js",
               "RelativeDocumentMoniker": ".eleventy.js",
               "ToolTip": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\.eleventy.js",
               "RelativeToolTip": ".eleventy.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwBUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-12T22:10:38.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "config.json",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_data\\config.json",
               "RelativeDocumentMoniker": "_site\\_data\\config.json",
@@ -123,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "blog.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\blog.njk",
               "RelativeDocumentMoniker": "_site\\blog.njk",
@@ -136,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "characterlist.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\characterlist.njk",
               "RelativeDocumentMoniker": "_site\\characterlist.njk",
@@ -144,12 +159,11 @@
               "RelativeToolTip": "_site\\characterlist.njk",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T04:53:28.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T04:53:28.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "characternav.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_includes\\characternav.njk",
               "RelativeDocumentMoniker": "_site\\_includes\\characternav.njk",
@@ -157,12 +171,11 @@
               "RelativeToolTip": "_site\\_includes\\characternav.njk",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T04:18:15.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T04:18:15.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "characters.yaml",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_data\\characters.yaml",
               "RelativeDocumentMoniker": "_site\\_data\\characters.yaml",
@@ -170,12 +183,11 @@
               "RelativeToolTip": "_site\\_data\\characters.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-09T03:54:13.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T03:54:13.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "characters.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\characters.njk",
               "RelativeDocumentMoniker": "_site\\characters.njk",
@@ -188,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "footer.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\_includes\\footer.njk",
               "RelativeDocumentMoniker": "_site\\_includes\\footer.njk",
@@ -196,8 +208,7 @@
               "RelativeToolTip": "_site\\_includes\\footer.njk",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T03:01:27.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T03:01:27.343Z"
             },
             {
               "$type": "Document",
@@ -207,14 +218,14 @@
               "RelativeDocumentMoniker": "_site\\css\\styles.sass",
               "ToolTip": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\css\\styles.sass",
               "RelativeToolTip": "_site\\css\\styles.sass",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-07T08:44:30.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "about.md",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\about.md",
               "RelativeDocumentMoniker": "_site\\about.md",
@@ -227,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "missing.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\missing.njk",
               "RelativeDocumentMoniker": "_site\\missing.njk",
@@ -235,12 +246,11 @@
               "RelativeToolTip": "_site\\missing.njk",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-07T08:38:37.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T08:38:37.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "index.njk",
               "DocumentMoniker": "C:\\Users\\roose\\Code\\Donuts\\donuts-website\\_site\\index.njk",
               "RelativeDocumentMoniker": "_site\\index.njk",
