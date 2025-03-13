@@ -15,6 +15,7 @@ api-docs/
 # Ignore folders from source code editors
 .vscode
 .idea
+.vs
 
 # Ignore eleventy output when doing manual tests
 dist/
