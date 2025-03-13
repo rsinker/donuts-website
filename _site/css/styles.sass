@@ -7,7 +7,7 @@
 }
 
 .title, h1 {
-  @apply text-3xl my-8 font-black text-slate-800;
+  @apply text-3xl py-8  font-black text-slate-800;
 
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
@@ -16,7 +16,7 @@
 }
 
 h2 {
-  @apply text-2xl my-8 font-black text-slate-800;
+  @apply text-2xl py-8 font-black text-slate-800;
 
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
@@ -25,7 +25,7 @@ h2 {
 }
 
 h3 {
-  @apply text-xl my-8 font-black text-slate-800;
+  @apply text-xl py-8 font-black text-slate-800;
 
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
@@ -63,4 +63,19 @@ div.textspace-no-margin li {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+}
+
+.bg-sprinkles {
+  position: relative;
+}
+
+.bg-sprinkles::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('/images/Sprinkles_Pattern_White.png');
+  background-repeat: repeat;
+  background-size: 250px auto;
+  opacity: 0.5; /* Controls the background opacity */
+  z-index: -1; /* Keeps it behind content */
 }
