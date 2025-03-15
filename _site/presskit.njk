@@ -3,8 +3,9 @@ title: Press Kit
 layout: home
 tags: page
 ---
-<div class = "mb-12">
-	<h1 class="mb-12 text-center">Fact Sheet</h1>
+<div class = "my-16 bg-opaque">
+	<div class = "mx-8 mb-8">
+	<h1 class="mb-0 text-center">Fact Sheet</h1>
 
 	<h2 class = "mb-0 text-left">Developer</h2>
 	<p class = "text-left">Donuts Team</p>
@@ -35,15 +36,16 @@ tags: page
 	<p class = "text-left">Donuts! is a slapstick 3D racing and skateboarding game meets food delivery service. You play as Mony, a first generation Cambodian-American, as she sets off to save her family's slowing donut business through means of food trucks, viral marketing, and radical tricks!</p>
 
 	<h1 class="mb-2 text-left">Features</h1>
-	<ul class = " text-left">
-		<li>Feature 1</li>
-		<li>Feature 2</li>
-		<li>Feature 3</li>
-		<li>Feature 4</li>
-	</ul>
+	<ul class = "ml-12 text-left list-disc space-y-4">
+        <li><p>Perform skateboard tricks in a food truck to make donuts.</p></li>
+        <li><p>Race against the clock to make your deliveries on time.</p></li>
+        <li><p>Gather a social media following to save your family's donut shop.</p></li>
+        <li><p>Explore a beautiful southern california-expired world.</p></li>
+        <li><p>Meet a colorful cast of characters and learn more about the cambodian-american experience.</p></li>
+    </ul>
 
 	<h1 class="mb-2 text-left">About the Developer</h1>
-	<p class = "mb-36 text-left">The Donuts Team is a student project made as part of USC Games' Advanced Games Project capstone program. Directed by Timothy Quach and with over 50 team members the project was developed over the course of a year. Full credits found <a href = "/missing" class = "underline">here</a>.</p>
+	<p class = "mb-8 text-left">The Donuts Team is a student project made as part of USC Games' Advanced Games Project capstone program. Directed by Timothy Quach and with over 50 team members the project was developed over the course of a year. Full credits found <a href = "/missing" class = "underline">here</a>.</p>
 
 
 	<h1 class="mb-2 text-left">Official Website</h1>
@@ -64,14 +66,21 @@ tags: page
 	<h1 class="mb-2 text-left">Blue Sky</h1>
 	<a href = "{{ config.blueskyLink }}"><p class = "text-left underline">{{ config.blueskyAccount }}</p></a>
 
-	<h1 class="mb-2 text-left">Facebook</h1>
-	<a href = "{{ config.facebookLink }}"><p class = "text-left underline">{{ config.facebookAccount }}</p></a>
-
 
 	<h1 class="mb-2 text-left">Videos</h1>
 	<h3 class="mb-2 text-left">GDC Trailer (00:09:05)</h3>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/87mODA90eEk?si=XUxeiCe0rczZSn-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<div class="w-full aspect-video rounded-3xl shadow-2xl shadow-pink-500 overflow-hidden">
+		<iframe class="w-full h-full" 
+			src="https://www.youtube.com/embed/87mODA90eEk?si=XUxeiCe0rczZSn-2" 
+			title="YouTube video player" 
+			frameborder="0" 
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+			referrerpolicy="strict-origin-when-cross-origin" 
+			allowfullscreen>
+		</iframe>
+	</div>
 
+	{# 
 	<h1 class="mb-2 text-left">Screenshots</h1>
 	<div class = "flex justify-center gap-x-8">
 	{% listScreenshots %}
@@ -79,4 +88,6 @@ tags: page
 
 	<h1 class="mb-2 text-left">Press Kit Assets</h1>
 	<p class = "text-left">Download the full press kit <a href = "/missing" class = "underline">here</a>.</p>
+	#}
+	</div>
 </div>
