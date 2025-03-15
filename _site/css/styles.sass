@@ -68,10 +68,9 @@ div.textspace-no-margin li {
 .bg-sprinkles {
   position: relative;
   background-color: #F78CC9; /* Set the background color */
-  background-image: url('/images/Backgrounds/PinkSprinkles.png');
+  background-image: url('/images/Backgrounds/PinkSprinkles.webp');
   background-repeat: repeat;
-  background-size: 5000px auto; /* Adjust the size as needed */
-  background-blend-mode: overlay; /* Apply the blend mode */
+  background-size: cover; /* Adjust the size as needed */
 }
 
 .footer-bg {
@@ -79,4 +78,10 @@ div.textspace-no-margin li {
   background-repeat: repeat; /* Repeat the background image */
   background-size: auto 100%; /* Do not stretch vertically */
   background-position: top; /* Position the background at the top */
+}
+
+.bg-opaque {
+  background-color: rgba(255, 255, 135, 0.8); /* Pink background with 80% opacity */
+  padding: 1rem; /* Add padding for better spacing */
+  border-radius: 0.5rem; /* Optional: Add border radius for rounded corners */
 }
