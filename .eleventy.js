@@ -10,6 +10,10 @@ module.exports = function (config) {
     // Add a shortcode to list all images in the images/screenshots directory
     config.addShortcode("listScreenshots", function () {
         const screenshotsDir = path.join(__dirname, "_site/images/screenshots");
+        // Check if the screenshots directory exists
+        if (!fs.existsSync(screenshotsDir)) {
+            return "<p>No screenshots available.</p>";
+        }
         const files = fs.readdirSync(screenshotsDir);
         const images = files.filter(file => /\.(jpg|jpeg|png|gif)$/.test(file));
 
