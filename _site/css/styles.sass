@@ -67,15 +67,16 @@ div.textspace-no-margin li {
 
 .bg-sprinkles {
   position: relative;
+  background-color: #F78CC9; /* Set the background color */
+  background-image: url('/images/Backgrounds/PinkSprinkles.png');
+  background-repeat: repeat;
+  background-size: 5000px auto; /* Adjust the size as needed */
+  background-blend-mode: overlay; /* Apply the blend mode */
 }
 
-.bg-sprinkles::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background-image: url('/images/Sprinkles_Pattern_White.png');
-  background-repeat: repeat;
-  background-size: 250px auto;
-  opacity: 0.5; /* Controls the background opacity */
-  z-index: -1; /* Keeps it behind content */
+.footer-bg {
+  background-image: url('/images/Backgrounds/FooterBackground.svg'); /* Set the background image */
+  background-repeat: repeat; /* Repeat the background image */
+  background-size: auto 100%; /* Do not stretch vertically */
+  background-position: top; /* Position the background at the top */
 }

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_site",
+    "\\_site\\_includes"
   ],
+  "SelectedNode": "\\_site\\_includes\\footer.njk",
   "PreviewInSolutionExplorer": false
 }
