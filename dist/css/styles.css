@@ -587,10 +587,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 50%;
 }
 
-.w-3\/4 {
-  width: 75%;
-}
-
 .w-full {
   width: 100%;
 }
@@ -849,10 +845,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .title, h1 {
-  font-family: "Unbounded", sans-serif;
-  font-optical-sizing: auto;
-  font-variation-settings:
-    "wdth" 100;
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.875rem;
@@ -860,13 +852,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
-}
-
-h2 {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-variation-settings:
     "wdth" 100;
+}
+
+h2 {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.5rem;
@@ -874,13 +866,13 @@ h2 {
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
-}
-
-h3 {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-variation-settings:
     "wdth" 100;
+}
+
+h3 {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.25rem;
@@ -888,6 +880,10 @@ h3 {
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 .blog-title {
@@ -1058,14 +1054,6 @@ div.textspace-no-margin li {
 
   .md\:h-28 {
     height: 7rem;
-  }
-
-  .md\:w-3\/4 {
-    width: 75%;
-  }
-
-  .md\:w-full {
-    width: 100%;
   }
 
   .md\:w-5\/6 {
