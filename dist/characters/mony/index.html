@@ -33,11 +33,15 @@
             </head>
   <body class = "bg-sprinkles">
     <header>
-      <div class="h-auto md:h-28 py-6 bg-[#6ae3fe] border-b-[16px] border-white">
+      <div class="h-auto md:h-28 py-4 md:py-6 bg-[#6ae3fe] border-b-[16px] border-white">
   <div class="md:flex justify-between items-end max-w-4xl mx-auto">
-    <a href = "/" class="flex flex-col items-center text-center md:text-left text-4xl md:text-5xl noto-serif-header font-black text-slate-800 mb-1 md:mb-0">
-      Donuts!
-    </a>
+
+    <!-- Center logo -->
+    <div class="flex justify-center items-center mx-1 md:mx-5">
+      <a href="/" class="flex items-center justify-center">
+        <img src="/images/logo.png" class=" h-20 md:h-16" />
+      </a>
+    </div>
 
     <ul class="text-center text-lg"><li class="inline-block">
 			<a class="p-2 mx-1 md:mx-5 hover:underline noto-sans" href="/">Home</a>
@@ -55,68 +59,71 @@
     </a>
     <div class="mt-0 mx-auto px-8 max-w-4xl">
       
-<h1 class="mb-12 text-center">Meet the Characters</h1>
+<div class = "my-16 bg-opaque">
 
-
-<div class = "mt-16 grid grid-cols-4 md:grid-cols-5 xl:grid-cols-6 gap-4">
-
-<a href = "/characters/mony">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Mony</p>
-</div>
-</a>
-
-<a href = "/characters/sothea">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Sothea</p>
-</div>
-</a>
-
-<a href = "/characters/brodie">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Brodie</p>
-</div>
-</a>
-
-<a href = "/characters/paul-mcdill">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Paul McDill</p>
-</div>
-</a>
-
-<a href = "/characters/willie">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Willie</p>
-</div>
-</a>
-
-<a href = "/characters/kim">
-<div class = "hover:scale-[1.15]">
-<img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images/favicon.png">
-<p class = "text-center bg-blue-500 rounded-b-md">Kim</p>
-</div>
-</a>
-
-</div>
-
-
-<div class = "mt-8 flex justify-center gap-x-8">
-<div>
-<img class ="rounded-2xl border border-gray-400 border-2 h-[512px]" src = "/images/mony.jpg">
+<div class = "mt-8 mb-24 flex justify-center gap-x-8">
+<div class = "w-1/2">
+<img class ="rounded-2xl border border-gray-400 border-2" src = "/images//Selfies/Mony.png">
 </div>
 
 <div class = "grow-0 w-1/2">
-<p class = "title mb-12 text-center">Mony</p>
+<p class = "title mb-8 text-center">Mony</p>
 <p class = "text-center">monymonymony</p>
-<p class = "text-center">Favorite Donut: aaa</p>
 </div>
 </div>
 
+
+<h1 class="text-center">Meet the Characters</h1>
+
+<div class = "grid grid-cols-3 md:grid-cols-3 xl:grid-cols-3 gap-4">
+  
+  <a href = "/characters/mony">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Mony.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Mony</p>
+      </div>
+  </a>
+  
+  <a href = "/characters/sothea">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Sothea.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Sothea</p>
+      </div>
+  </a>
+  
+  <a href = "/characters/brodie">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Brodie.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Brodie</p>
+      </div>
+  </a>
+  
+  <a href = "/characters/paul-mcdill">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Paul.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Paul McDill</p>
+      </div>
+  </a>
+  
+  <a href = "/characters/willie">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Willie.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Willie</p>
+      </div>
+  </a>
+  
+  <a href = "/characters/kim">
+    <div class = "hover:scale-[1.15]">
+      <img class = "border border-4 rounded-t-md" style="border-color: ;" src = "/images//Selfies/Kim.png">
+        <p class = "text-center bg-blue-500 rounded-b-md">Kim</p>
+      </div>
+  </a>
+  
+</div>
+
+
+
+</div>
 
     </div>
 

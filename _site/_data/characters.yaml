@@ -1,36 +1,36 @@
 - name: Mony
-  image: mony.jpg
-  button_img: favicon.png
+  image: /Selfies/Mony.png
+  button_img: /Selfies/Mony.png
   description: monymonymony
   donut: aaa
   color: #44bd87
 - name: Sothea
-  image: brodie.png
-  button_img: favicon.png
+  image: /Selfies/Sothea.png
+  button_img: /Selfies/Sothea.png
   description: monymonymony
   donut: aaa
   color: #44bd87
 - name: Brodie
-  image: brodie.png
-  button_img: favicon.png
+  image: /Selfies/Brodie.png
+  button_img: /Selfies/Brodie.png
   description: monymonymony
   donut: aaa
   color: #f0aec7
 - name: Paul McDill
-  image: brodie.png
-  button_img: favicon.png
+  image: /Selfies/Paul.png
+  button_img: /Selfies/Paul.png
   description: monymonymony
   donut: aaa
   color: #f0aec7
 - name: Willie
-  image: brodie.png
-  button_img: favicon.png
-  description: monymonymony
+  image: /Selfies/Willie.png
+  button_img: /Selfies/Willie.png
+  description: Your friendly local hotdog vendor, Willie's stand has been open for so long you just know its good. He's still getting the hang of using his phone, but he'll call 4th Street Donuts whenever his sweet tooth calls to him.
   donut: aaa
   color: #f0aec7
 - name: Kim
-  image: brodie.png
-  button_img: favicon.png
+  image: /Selfies/Kim.png
+  button_img: /Selfies/Kim.png
   description: monymonymony
   donut: Maple Bar
   color: #f0aec7

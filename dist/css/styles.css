@@ -515,6 +515,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 2rem;
 }
 
+.mb-24 {
+  margin-bottom: 6rem;
+}
+
 .mb-8 {
   margin-bottom: 2rem;
 }
@@ -543,16 +547,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 0px;
 }
 
-.mt-16 {
-  margin-top: 4rem;
-}
-
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mb-1 {
-  margin-bottom: 0.25rem;
 }
 
 .inline-block {
@@ -571,16 +567,28 @@ Ensure the default browser behavior of the `hidden` attribute.
   aspect-ratio: 16 / 9;
 }
 
-.h-\[512px\] {
-  height: 512px;
-}
-
 .h-full {
   height: 100%;
 }
 
+.h-\[512px\] {
+  height: 512px;
+}
+
 .h-auto {
   height: auto;
+}
+
+.h-2 {
+  height: 0.5rem;
+}
+
+.h-20 {
+  height: 5rem;
+}
+
+.h-16 {
+  height: 4rem;
 }
 
 .w-1\/2 {
@@ -589,6 +597,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-full {
   width: 100%;
+}
+
+.w-1\/4 {
+  width: 25%;
+}
+
+.w-20 {
+  width: 5rem;
 }
 
 .max-w-4xl {
@@ -603,12 +619,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   list-style-type: disc;
 }
 
-.grid-cols-4 {
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-}
-
-.flex-col {
-  flex-direction: column;
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .items-end {
@@ -737,6 +749,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 2rem;
 }
 
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.py-0 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
 .pb-12 {
   padding-bottom: 3rem;
 }
@@ -817,11 +839,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(71 85 105 / var(--tw-text-opacity));
 }
 
-.text-slate-800 {
-  --tw-text-opacity: 1;
-  color: rgb(30 41 59 / var(--tw-text-opacity));
-}
-
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
@@ -845,6 +862,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .title, h1 {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "wdth" 100;
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.875rem;
@@ -852,13 +873,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
+}
+
+h2 {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-variation-settings:
     "wdth" 100;
-}
-
-h2 {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.5rem;
@@ -866,13 +887,13 @@ h2 {
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
+}
+
+h3 {
   font-family: "Unbounded", sans-serif;
   font-optical-sizing: auto;
   font-variation-settings:
     "wdth" 100;
-}
-
-h3 {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.25rem;
@@ -880,10 +901,6 @@ h3 {
   font-weight: 900;
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
-  font-family: "Unbounded", sans-serif;
-  font-optical-sizing: auto;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 .blog-title {
@@ -1044,10 +1061,6 @@ div.textspace-no-margin li {
     margin-right: 1.25rem;
   }
 
-  .md\:mb-0 {
-    margin-bottom: 0px;
-  }
-
   .md\:flex {
     display: flex;
   }
@@ -1056,31 +1069,45 @@ div.textspace-no-margin li {
     height: 7rem;
   }
 
+  .md\:h-20 {
+    height: 5rem;
+  }
+
+  .md\:h-16 {
+    height: 4rem;
+  }
+
   .md\:w-5\/6 {
     width: 83.333333%;
   }
 
-  .md\:grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .md\:text-left {
-    text-align: left;
+  .md\:py-6 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
   }
 
   .md\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
   }
+}
 
-  .md\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
+@media (min-width: 1024px) {
+  .lg\:w-1\/6 {
+    width: 16.666667%;
+  }
+
+  .lg\:w-1\/4 {
+    width: 25%;
   }
 }
 
 @media (min-width: 1280px) {
-  .xl\:grid-cols-6 {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+  .xl\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
